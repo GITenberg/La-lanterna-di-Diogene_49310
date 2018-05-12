@@ -1,4 +1,8 @@
 _repo: La-lanterna-di-Diogene_49310
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49310-h/images/cover.jpg
 creator:
   author:
     agent_name: Panzini, Alfredo
@@ -8,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/39262
     wikipedia: http://it.wikipedia.org/wiki/Alfredo_Panzini
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49310#La-lanterna-di-Diogene
 gutenberg_bookshelf: IT Romanzi
 gutenberg_issued: '2015-06-28'
 gutenberg_type: Text
